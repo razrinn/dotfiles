@@ -34,6 +34,16 @@ My setup preferences for development
 
 ## Dev Environment
 
+### Snippet
+- Various git shortcut
+    ```
+    alias gs='git status'
+    alias ga='git add'
+    alias gpl='git pull origin "$(git rev-parse --abbrev-ref HEAD)"'
+    alias gps='git pull origin "$(git rev-parse --abbrev-ref HEAD)"'
+    ```
+
+
 ### SSH
 https://docs.gitlab.com/ee/user/ssh.html
 
