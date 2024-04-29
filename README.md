@@ -7,7 +7,8 @@ My setup preferences for development
 2. Oh My Zsh https://ohmyz.sh/
 3. VM https://mac.getutm.app/
 4. VSCode https://formulae.brew.sh/cask/visual-studio-code
-5. NetBird VPN https://docs.netbird.io/how-to/installation#mac-os
+5. Postman https://formulae.brew.sh/cask/postman
+6. NetBird VPN https://docs.netbird.io/how-to/installation#mac-os
 
 ## General App
 1. Rectangle https://formulae.brew.sh/cask/rectangle
