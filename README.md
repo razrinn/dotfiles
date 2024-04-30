@@ -48,7 +48,10 @@ My setup preferences for development
 https://docs.gitlab.com/ee/user/ssh.html
 
 ### Node/JS/TS
-1. NVM https://github.com/nvm-sh/nvm?tab=readme-ov-file#installing-and-updating
+NVM https://github.com/nvm-sh/nvm?tab=readme-ov-file#installing-and-updating
 
 ### Rust
-1. RSVM https://github.com/sdepold/rsvm?tab=readme-ov-file#rsvm
+RSVM https://github.com/sdepold/rsvm?tab=readme-ov-file#rsvm
+
+### Go
+GVM https://github.com/moovweb/gvm?tab=readme-ov-file#installing (notes: [1](https://github.com/moovweb/gvm?tab=readme-ov-file#to-install-go-120) [2](https://github.com/moovweb/gvm/issues/385#issuecomment-1030190550))
